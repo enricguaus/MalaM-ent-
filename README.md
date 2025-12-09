@@ -43,7 +43,7 @@ Un cop instal·lada la llibreria *nn~*, ja es pot obrir el patch (programa) fent
 
 Per descarregar el patch, cal descarregar TOT el projecte a una carpeta coneguda (per exemple, *Baixades*). Per fer-ho, cal:
 
-1. Anar a la plana principal del projecte a [Github](XXXXXXXXX).
+1. Anar a la plana principal del projecte a [Github](https://github.com/enricguaus/MalaM-ent-).
 2. Obrir el menú identificat en color verd com a *<> Code -> Download ZIP*.
 3. Descomprimir el fitxer *.zip* descarregat.
 
@@ -96,7 +96,7 @@ Per fer la pràctica es demana:
 
 1. Instal·lar el [PureData](https://puredata.info/).
 2. Instal·lar la llibreria [nn~](https://acids-ircam.github.io/nn_tilde/).
-3. Descarregar el patch desde [Github](XXXXXXXX).
+3. Descarregar el patch desde [Github](https://github.com/enricguaus/MalaM-ent-).
 4. Descarregar els models:
     - [aigua_48k.ts](https://esmuc-my.sharepoint.com/:v:/g/personal/eguaus_esmuc_cat/IQCe5mBdReeUTZd1WJCzL7mbAai6iotG0uQ1oHojUJgnIgg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=WL2nbg).
     - [veu_44k1.ts](https://esmuc-my.sharepoint.com/:v:/g/personal/eguaus_esmuc_cat/IQC4dBLUKGR2RZvqSHd61lqiAQkBy_M-f4jEP9y8e5w11nk?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=wRyR5b).
