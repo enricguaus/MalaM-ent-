@@ -47,13 +47,13 @@ Per descarregar el patch, cal descarregar TOT el projecte a una carpeta coneguda
 2. Obrir el menú identificat en color verd com a *<> Code -> Download ZIP*.
 3. Descomprimir el fitxer *.zip* descarregat.
 
-El patch té aquesta pinta:
+El patch té aquest aspecte:
 
 ![Aspecte del neural_synthesis.pd](./neural_synthesis.png "Aspecte del Neural Synthesis.pd")
 
-### Descàrrega del model
+### Descàrrega dels models
 
-EL Github permet pujar fitxers amb una mida màxima. Els models pre-entrenats de síntesi neuronal sobrepassen el límit establert, així que s'han penjat a una carpeta compartida a OneDrive. Concretament, cal descarregar dos models i posar-los a la mateixa carpeta on hi ha el patch (descarregat a l'apartat anterior). Els models són:
+EL Github permet pujar fitxers amb una mida màxima. Els models pre-entrenats de síntesi neuronal sobrepassen el límit establert així que s'han penjat a una carpeta compartida a OneDrive. Concretament, cal descarregar dos models i posar-los a la mateixa carpeta on hi ha el patch (descarregat a l'apartat anterior). Els models són:
 
 - [aigua_48k.ts](https://esmuc-my.sharepoint.com/:v:/g/personal/eguaus_esmuc_cat/IQCe5mBdReeUTZd1WJCzL7mbAai6iotG0uQ1oHojUJgnIgg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=WL2nbg)
 - [veu_44k1.ts](https://esmuc-my.sharepoint.com/:v:/g/personal/eguaus_esmuc_cat/IQC4dBLUKGR2RZvqSHd61lqiAQkBy_M-f4jEP9y8e5w11nk?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=wRyR5b)
@@ -68,8 +68,8 @@ El patch està pensat per experimentar amb 4 configuracions diferents:
 | ----- | ---- |
 | Aigua | Forward |
 | Aigua | Encode/Decode |
-| Veu   | Forward |
-| Veu   | Encode/Decode |
+| Veu | Forward |
+| Veu | Encode/Decode |
 
 on:
 
