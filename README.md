@@ -1,4 +1,5 @@
-# Neural Synthesis
+# MalaM-ent-
+> Matemàtiques aplicades a la Música (pensament)
 
 ## Introducció
 
