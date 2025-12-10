@@ -102,7 +102,7 @@ Per fer la pràctica es demana:
     - [veu_44k1.ts](https://esmuc-my.sharepoint.com/:v:/g/personal/eguaus_esmuc_cat/IQC4dBLUKGR2RZvqSHd61lqiAQkBy_M-f4jEP9y8e5w11nk?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=wRyR5b).
 5. Jugar amb les 4 possibilitats del model.
 6. Respondre el Formulari disponible al OneDrive:
-    - [Formulari de respostes](XXXXXXXX). ( Properament...)
+    - [Formulari de respostes](https://forms.office.com/Pages/ResponsePage.aspx?id=MziA2ZQOU0WslHunsTY0a0VRaWMJKshNtV-vVzFcnDZUNUE3UThRNFZCTk1OTkhESkpLQjMyVERaQy4u).
 
 ## Referències
 
